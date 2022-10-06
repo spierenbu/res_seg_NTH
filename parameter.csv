@@ -1,0 +1,7 @@
+variable,value
+min_overlap_area,0.5
+max_travel_t,1200
+min_travel_t,60
+walk_speed,1.25
+ratio_in_gemeente,0.1
+dissimilarity_threshold,0.01
